@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 环境与密钥
+.env
+
+# 编辑器与系统
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
